@@ -187,7 +187,7 @@ export const projects = [
     ],
     category: "web app",
     github: "https://github.com/Priyanka0899/mern-estate",
-    webapp: "https://movix-sv58.vercel.app/",
+    webapp: "",
   },
 //   {
 //     id: 1,
