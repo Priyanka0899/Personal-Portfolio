@@ -189,23 +189,23 @@ export const projects = [
     github: "https://github.com/Priyanka0899/mern-estate",
     webapp: "https://movix-sv58.vercel.app/",
   },
-  {
-    id: 1,
-    title: "TicTacToe",
-    date: "Aug 2023",
-    description:
-      "Developed an interactive Tic-Tac-Toe game to enhance my understanding of state management in React. This project involved creating a fully functional game interface where two players can play against each other, with dynamic updates and visual feedback. Through this project, I deepened my knowledge of React hooks, state handling, and component-driven development..",
-    image: "",
-      // "https://github.com/sonu82256/Github-pics/blob/main/TicTacToe.png?raw=true",
-    tags: [
-      "React Js",
-      "useState Hook",
-      "Array",
-      "map function",
-    ],
-    category: "web app",
-    github: "https://github.com/sonu82256/TicTacToe.git",
-    webapp: "https://tic-tac-toe-seven-orpin-38.vercel.app",
-  },
+//   {
+//     id: 1,
+//     title: "TicTacToe",
+//     date: "Aug 2023",
+//     description:
+//       "Developed an interactive Tic-Tac-Toe game to enhance my understanding of state management in React. This project involved creating a fully functional game interface where two players can play against each other, with dynamic updates and visual feedback. Through this project, I deepened my knowledge of React hooks, state handling, and component-driven development..",
+//     image: "",
+//       // "https://github.com/sonu82256/Github-pics/blob/main/TicTacToe.png?raw=true",
+//     tags: [
+//       "React Js",
+//       "useState Hook",
+//       "Array",
+//       "map function",
+//     ],
+//     category: "web app",
+//     github: "https://github.com/sonu82256/TicTacToe.git",
+//     webapp: "https://tic-tac-toe-seven-orpin-38.vercel.app",
+//   },
 ];
 
