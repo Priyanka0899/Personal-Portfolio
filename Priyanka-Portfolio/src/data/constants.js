@@ -134,7 +134,11 @@ export const experiences = [
       "Jenkins",
       "Red Hat OpenShift",
     ],
+<<<<<<< HEAD
     doc: "https://drive.google.com/file/d/1SGyd2edJqVU0jUklN6WC-cQ6apK4F5ZM/view?usp=sharing?raw=true",
+=======
+    doc: "https://github.com/sonu82256/Github-pics/blob/main/intellect_intern_certificate.png?raw=true",
+>>>>>>> 7f9902f7415645b947dedfc9947740620c056a83
   },
   
 ];
