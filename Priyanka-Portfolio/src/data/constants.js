@@ -134,7 +134,7 @@ export const experiences = [
       "Jenkins",
       "Red Hat OpenShift",
     ],
-    doc: "https://drive.google.com/file/d/1SGyd2edJqVU0jUklN6WC-cQ6apK4F5ZM/view?usp=sharing",
+    doc: "https://drive.google.com/file/d/1SGyd2edJqVU0jUklN6WC-cQ6apK4F5ZM/view?usp=sharing?raw=true",
   },
   
 ];
@@ -153,7 +153,7 @@ export const education = [
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlSsma3tZaqQIRRW76eQWAAXiu5AJ79YO-dQ&s",
     school: "Punjabi University, Patiala, Punjab",
     date: "July 2016 - June 2019",
-    percentage: "72.57",
+    grade: "72.57%",
     desc: "I completed my Bachelors of Computer Applications (B.Sc) in Computer Application from Mata Sundri Girls College, Mansa, Punjab, from July 2016 to June 2019. During my undergraduate studies, I developed a strong foundation in computer science principles and practical applications. My coursework included a variety of subjects such as Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems (DBMS), Operating Systems.",
     degree: "BCA",
   },
@@ -175,7 +175,7 @@ export const projects = [
     date: "",
     description:
       "AroraEstate is a full-stack real estate website to facilitate property listings and user interactions.",
-    image: "",
+    image: "https://github.com/Priyanka0899/git-pics/blob/main/Images/AroraEstate.png?raw=true",
     tags: [
       "ReactJs",
       "NodeJs",
@@ -187,7 +187,7 @@ export const projects = [
     ],
     category: "web app",
     github: "https://github.com/Priyanka0899/mern-estate",
-    webapp: "",
+    webapp: "https://mern-estate-poyp.onrender.com/",
   },
 //   {
 //     id: 1,
