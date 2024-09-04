@@ -193,23 +193,23 @@ export const projects = [
     github: "https://github.com/Priyanka0899/mern-estate",
     webapp: "https://mern-estate-poyp.onrender.com/",
   },
-//   {
-//     id: 1,
-//     title: "TicTacToe",
-//     date: "Aug 2023",
-//     description:
-//       "Developed an interactive Tic-Tac-Toe game to enhance my understanding of state management in React. This project involved creating a fully functional game interface where two players can play against each other, with dynamic updates and visual feedback. Through this project, I deepened my knowledge of React hooks, state handling, and component-driven development..",
-//     image: "",
-//       // "https://github.com/sonu82256/Github-pics/blob/main/TicTacToe.png?raw=true",
-//     tags: [
-//       "React Js",
-//       "useState Hook",
-//       "Array",
-//       "map function",
-//     ],
-//     category: "web app",
-//     github: "https://github.com/sonu82256/TicTacToe.git",
-//     webapp: "https://tic-tac-toe-seven-orpin-38.vercel.app",
-//   },
+  {
+    id: 1,
+    title: "Womaniya",
+    date: "",
+    description:
+      "Womaniya is a women-centric health website providing awareness about women healthcare. Many health ailments that women face can be prevented by looking after their health. Know about activities for well being, try meditation using our app and much more!",
+    image: "",
+      // "https://i.pinimg.com/564x/1b/91/ca/1b91ca8e0c8b5d31d6be95c1b1ff4fe2.jpg",
+    tags: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "kaggle",
+    ],
+    category: "web app",
+    github: "https://github.com/Priyanka0899/womaniyaa",
+    webapp: "https://womaniyaa.vercel.app/",
+  },
 ];
 
