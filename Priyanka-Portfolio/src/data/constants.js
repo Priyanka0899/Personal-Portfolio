@@ -134,13 +134,8 @@ export const experiences = [
       "Jenkins",
       "Red Hat OpenShift",
     ],
-<<<<<<< HEAD
     doc: "https://drive.google.com/file/d/1SGyd2edJqVU0jUklN6WC-cQ6apK4F5ZM/view?usp=sharing?raw=true",
-=======
-    doc: "https://github.com/sonu82256/Github-pics/blob/main/intellect_intern_certificate.png?raw=true",
->>>>>>> 7f9902f7415645b947dedfc9947740620c056a83
-  },
-  
+  }
 ];
 
 export const education = [
@@ -199,8 +194,8 @@ export const projects = [
     date: "",
     description:
       "Womaniya is a women-centric health website providing awareness about women healthcare. Many health ailments that women face can be prevented by looking after their health. Know about activities for well being, try meditation using our app and much more!",
-    image: "",
-      // "https://i.pinimg.com/564x/1b/91/ca/1b91ca8e0c8b5d31d6be95c1b1ff4fe2.jpg",
+    image: 
+       "https://i.pinimg.com/564x/1b/91/ca/1b91ca8e0c8b5d31d6be95c1b1ff4fe2.jpg",
     tags: [
       "HTML",
       "CSS",
